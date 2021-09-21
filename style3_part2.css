@@ -1,0 +1,32 @@
+ ==========================================================================
+   Formatting for part 1 of the assignment. Changes text color and family.
+   ========================================================================== */
+#red {
+  font-family: "Times New Roman", sans-serif;
+  color: red;
+}
+
+#blue {
+  font-family: "Arial", sans-serif;
+  color: blue;
+}
+
+#green {
+  font-family: "Impact", sans-serif;
+  color: green;
+}
+/* end part 1 page */
+
+/* ==========================================================================
+   Formatting for part 2 of the assignment.
+   ========================================================================== */
+
+
+#content {
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #006bb3;
+    border-radius: 5px;
+    width: 500px;
+}
